@@ -14,3 +14,7 @@
        SVMSMOTE balanced data but with a test accuracy of only 90.6% indicating significant overfitting. 
     *  The best test accuracy (~95.0%) comes from Logistic Regression, 
 	   RandomForestClassifier and XGBClassifier all fit on SMOTEENN balanced data. 
+	   
+![image](XGBoost_2D.png)
+-----
+![image](XGBoost_3D.png)
